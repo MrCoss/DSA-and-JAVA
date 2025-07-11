@@ -1,0 +1,29 @@
+# === JAVA ===
+*.class
+*.jar
+*.log
+*.iml
+*.war
+*.ear
+
+# Eclipse / IntelliJ / VS Code
+/.idea/
+/.vscode/
+/target/
+/bin/
+/out/
+
+# === C++ ===
+*.exe
+*.o
+*.obj
+*.out
+*.gch
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Backup Files ===
+*.swp
+*~
